@@ -1,7 +1,7 @@
 
 **SUP BITCH !!!!!!!!!!!!!!!!!!** hey
 
-hello this is a test page!!!! but also the home page????
+this is a test page!!!! but also the home page???? wow that's really confusing
 go away! or dont! hahahahaha
 
 this is less of a wiki and more of a messy box for me to shove my messy thoughts into and eventually turn into something more coherent!!!! enjoy!!!!
