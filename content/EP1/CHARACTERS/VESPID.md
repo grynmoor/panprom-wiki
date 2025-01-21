@@ -1,3 +1,8 @@
-#characters #ep1
+---
+tags:
+  - characters
+  - ep1
+---
+[[IDOLSHELLS|IDOLSHELL]], former [[WARSHELLS|WARSHELL]]
 
-[[IDOLSHELLS]] and former [[WARSHELLS]]
+![[vespid_pose.png]]
