@@ -1,2 +1,7 @@
-#regions #ep2
+---
+tags:
+  - regions
+  - ep2
+---
+
 [[FACILITY GROUNDS]]

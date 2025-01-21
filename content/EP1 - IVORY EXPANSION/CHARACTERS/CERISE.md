@@ -1,3 +1,8 @@
-#characters #ep1
+---
+tags:
+  - characters
+  - ep1
+---
+
 
 User of [[BURST RESON]]

@@ -1,4 +1,9 @@
-#creatures
+---
+tags:
+  - creatures
+  - ep1
+---
+
 [[IDOLSHELLS]]
 [[WARSHELLS]]
 [[NAVSHELLS]]

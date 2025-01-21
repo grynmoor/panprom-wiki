@@ -1,2 +1,7 @@
-#characters #ep1
+---
+tags:
+  - characters
+  - ep1
+---
+
 [[IDOLSHELLS]]
