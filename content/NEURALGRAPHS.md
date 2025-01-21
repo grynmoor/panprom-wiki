@@ -13,3 +13,7 @@ like. if your character dies via reson poisoning and loses memory as a result. u
 and your character is going to talk to them about the topic as if it's the first time you're doing it 
 but they are kind of like.... we've already talked about this before.... you don't remember?
 that feels cool
+
+also. its feels cool to refer to armatures as a sort of race. shells, nyx division, birds are all armatures
+but weaponry, doors, vending machines are also armatures
+they all got neuralgraphs in them
