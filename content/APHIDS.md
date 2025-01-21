@@ -1,3 +1,0 @@
-#creatures
-[[HEM RESON]]
-[[EBONY]]
