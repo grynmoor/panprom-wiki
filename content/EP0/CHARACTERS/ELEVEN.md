@@ -11,12 +11,17 @@ gonna make a refsheet for her so i can model her
 i love her goofy little antennae
 
 even tho shes as close as factory default as the coronet could make her, there's still some stuff that the coronet had to explicitly pick out for her
+
 like her appearance. its an unused shell model. coronet just picked the one that was the least flashy looking 
+
 she doesnt start off with the twintails, she gets instanced w/o them 
+
 like her whole purpose was to not be good at the viewership game so she'd fail her first debut match and coronet could quietly guide her along in the lower sectors
-to do her job of deallocating the warshells 
-but that failed ofc
-now she's just an idolshell with task manager privileges who could theoretically deallocate everyone if she ever becomes aware of the fact that she can just. erase ppl w/ her reson crucible 
+
+to do her job of deallocating the warshells... but that failed ofc
+
+now she's just an idolshell with task manager privileges who could theoretically deallocate
+everyone if she ever becomes aware of the fact that she can just. erase ppl w/ her reson crucible 
 
 i don't remember if i had specific design stuff in mind for her previously but i like her design enough to just iterate off it
 she actually kind of looks like a navshell, which i like 
@@ -30,8 +35,7 @@ plus u can do something cute like pare11a
 
 if u go off the greek letter naming convention that the navshells have, eleven would be named lambda
 
-i like that lore for 11
-started off as a blank navshell template that inadvertently became an idolshell
+i like that lore for 11... started off as a blank navshell template that inadvertently became an idolshell
 said navshell template has residual parts of uni's neuralgraph in it 
 bc rlly its just a copy of uni that got hollowed out and turned into a reusable template
 hospice and uni are both navshells of alpha designation (they are equipped to manage coronet operations)
