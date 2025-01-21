@@ -6,3 +6,5 @@
 [[ARMATURES]]
 
 synthetic human extensions; head-bearing designs; continuations of the war, brought to the moon; repurposed into humanity's entertainers
+
+powered by [[RESON]] and made largely out of [[IVORY]]
