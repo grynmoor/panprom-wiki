@@ -1,3 +1,6 @@
-#characters #ep1
-
+---
+tags:
+  - characters
+  - ep1
+---
 User of [[RIPPLE RESON]]
