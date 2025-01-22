@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"ef523855936611c1","x":-500,"y":-240,"width":250,"height":60,"type":"text","text":"hello how neat"},
+		{"id":"94417973730b9795","x":-250,"y":-240,"width":400,"height":346,"type":"file","file":"vespid_turntable_reference.png"},
+		{"id":"2fe05ccb8f684ca6","x":-680,"y":-160,"width":400,"height":400,"type":"file","file":"EP0 - MULTIPLAYER DEMO/CHARACTERS/ELEVEN.md"}
+	],
+	"edges":[]
+}
