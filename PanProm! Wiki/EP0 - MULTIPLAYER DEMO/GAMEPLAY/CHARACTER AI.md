@@ -1,5 +1,0 @@
----
-tags:
-  - gameplay
-  - ep0
----
