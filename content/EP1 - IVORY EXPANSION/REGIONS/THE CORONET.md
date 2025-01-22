@@ -3,7 +3,6 @@ tags:
   - regions
   - ep1
 ---
-
 [[SECTOR 1]]
 [[SECTOR 2]]
 [[SECTOR 3]]
