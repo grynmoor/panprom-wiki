@@ -1,5 +1,0 @@
----
-tags:
-  - creatures
-  - ep2
----
