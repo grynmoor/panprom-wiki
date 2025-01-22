@@ -1,3 +1,5 @@
+@echo off
+
 cd C:\Users\grynm\quartz
 call robocopy "C:\Users\grynm\Documents\PanProm! Wiki" "C:\Users\grynm\quartz\content" /mir
 call npx quartz sync
