@@ -6,6 +6,6 @@ go away! or dont! hahahahaha
 
 this is less of a wiki and more of a messy box for me to shove my messy thoughts into and eventually turn into something more coherent!!!! enjoy!!!!!!!!!!!!!!
 umm is this working idk
-what????????
+what???????? help
 
 [check out my daily notes i suppose?](https://grynmoor.github.io/panprom-wiki/tags/notes)
