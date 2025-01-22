@@ -1,5 +1,0 @@
----
-tags:
-  - regions
-  - ep2
----

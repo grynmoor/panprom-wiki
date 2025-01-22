@@ -1,5 +1,0 @@
----
-tags:
-  - characters
-  - ep2
----
