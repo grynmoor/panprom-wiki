@@ -1,3 +1,3 @@
 cd C:\Users\grynm\quartz
-call npx quartz create --strategy copy --source "C:\Users\grynm\Documents\PanProm! Wiki" --links shortest
+call robocopy "C:\Users\grynm\Documents\PanProm! Wiki" "C:\Users\grynm\quartz\contents" /mir
 call npx quartz sync
