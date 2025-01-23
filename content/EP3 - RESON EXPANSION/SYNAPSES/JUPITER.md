@@ -4,4 +4,4 @@ tags:
   - ep3
 ---
 
-[[AUTHOR]]
+[[EP3 - RESON EXPANSION/CHARACTERS/AUTHOR]]

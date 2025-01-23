@@ -4,7 +4,7 @@ tags:
   - ep3
 ---
 [[SANTA]]
-[[AUTHOR]]
+[[EP3 - RESON EXPANSION/CHARACTERS/AUTHOR]]
 [[RED BRANCH]]
 [[GOLDEN ONE]]
 [[SILENCE]]
