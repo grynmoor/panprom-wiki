@@ -3,15 +3,29 @@ import * as Component from "./quartz/components"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
-  head: Component.Head(),
-  header: [],
-  afterBody: [],
-  footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
-  }),
+	head: Component.Head(),
+	header: [],
+	afterBody: [
+		Component.Comments({
+			provider: 'giscus',
+			options: {
+				// from data-repo
+				repo: 'grynmoor/panprom-wiki',
+				// from data-repo-id
+				repoId: 'R_kgDONtJnNg',
+				// from data-category
+				category: 'Announcements',
+				// from data-category-id
+				categoryId: 'DIC_kwDONtJnNs4Cmti_',
+			}
+		}),
+	],
+	footer: Component.Footer({
+		links: {
+			GitHub: "https://github.com/jackyzha0/quartz",
+			"Discord Community": "https://discord.gg/cRFFHYye7t",
+		},
+	}),
 }
 
 // components for pages that display a single page (e.g. a single note)
